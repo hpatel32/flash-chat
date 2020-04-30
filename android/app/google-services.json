@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318374352182",
+    "firebase_url": "https://test-chat-e06ab.firebaseio.com",
+    "project_id": "test-chat-e06ab",
+    "storage_bucket": "test-chat-e06ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318374352182:android:0b4d0e3e19c8580750cf97",
+        "android_client_info": {
+          "package_name": "co.hardik.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318374352182-der3i85pios7d0e41hoj342drcdhromr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2cR0ejBVt5NFN_WHgmiRiKqDxHo-FYOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318374352182-der3i85pios7d0e41hoj342drcdhromr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
